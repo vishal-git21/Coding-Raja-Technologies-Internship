@@ -12,7 +12,7 @@ A machine learning model to detect fraudulent transactions in financial datasets
 
 ## Project Structure
 
-- **Task1/**: Contains the movie recommendation system with its application, data, static files, and HTML templates.
-- **Task2/**: Contains the fraud detection project with relevant scripts and datasets.
+- **Task1**: Contains the movie recommendation system with its application, data, static files, and HTML templates.
+- **Task2**: Contains the fraud detection project with relevant scripts and datasets.
 
 For detailed information about each task, refer to their respective directories.
