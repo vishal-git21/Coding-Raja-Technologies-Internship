@@ -1,4 +1,4 @@
-# Coding-Raja-Technologies-Internship
+# Coding Raja Technologies Internship
 
 This repository contains projects completed during my internship at Coding-Raja Technologies.
 
